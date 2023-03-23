@@ -28,3 +28,5 @@ nnoremap L $
 vnoremap H ^
 vnoremap L $
 
+vnoremap > >gv
+vnoremap < <gv
